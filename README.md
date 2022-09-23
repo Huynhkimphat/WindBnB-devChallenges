@@ -34,7 +34,7 @@ Fulfill user stories below:
 
 ### Demo
 
-Find the website in action [here](https://silly-goodall-4678a9.netlify.app/)!
+Find the website in action [here](https://windbnb-devio.vercel.app/)!
 
 ### Demo Screenshots
 
